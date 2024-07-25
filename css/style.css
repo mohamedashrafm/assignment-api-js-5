@@ -1,0 +1,13 @@
+.navbar{
+    height: 150px;
+}
+.container .icon{
+    float: left;
+}
+
+.logo h2{
+    font-size: 16px;
+ }
+ .logo p{
+    font-size: 10px;
+ }
